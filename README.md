@@ -105,5 +105,6 @@ Execute the program
 </table>
 ``````
 
-### OUPUT
+### OUPUT:
+![Alt text](../logo.png)
 ![Alt text](<../Screenshot 2023-11-21 194542.png>)
