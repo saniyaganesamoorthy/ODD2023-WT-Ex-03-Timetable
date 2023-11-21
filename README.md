@@ -13,6 +13,7 @@ Add your timetable
 Execute the program
 
 # CODE
+
 <html>
   <head>
   </head>
@@ -52,7 +53,7 @@ Execute the program
     <td>EP</td>
     </tr> 
     </table><br>
-  </body>
+   </body>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -60,6 +61,7 @@ Execute the program
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 1. 19AI401 - Fundamentals of Webtechnology</p>
 </html>
+
 
 # OUPUT
 ![Alt text](logo.png)
