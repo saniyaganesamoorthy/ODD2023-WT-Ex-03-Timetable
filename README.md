@@ -13,7 +13,7 @@ Add your timetable
 Execute the program
 
 # CODE
-``````
+
 <html>
   <head>
   </head>
@@ -54,7 +54,7 @@ Execute the program
     </tr> 
     </table><br>
    </body>
-   ``````
+   
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
