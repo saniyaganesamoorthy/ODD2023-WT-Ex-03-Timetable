@@ -13,54 +13,97 @@ Add your timetable
 Execute the program
 
 ### CODE:
-
-<html>
-  <head>
-  </head>
-  <body> 
-    <td> 
-        <img src="logo.png"  height="10%" width="50%">
-    </td>
-  <table border="2" width=50% height= 10% bordercolor="blue" >
-    <tr> 
-    <th colspan ="10">TIMETABLE</th>  
-    </tr> 
-    <tr> 
-    <th colspan="2">Reference Number:</th> 
-    <th  style="text-align: left" colspan="2">23013613</th> 
-    <th  style="text-align:right" colspan="2"> Name:</th> 
-    <th colspan="2">Kala</th>
-    </tr> 
-    <tr> 
-    <td style="text-align: center";>DAYS</td> 
-    <td  style="text-align: center";>1</td>
-    <td  style="text-align: center";>2</td>
-    <td  style="text-align: center";>3</td> 
-    <td  style="text-align: center";>4</td>
-    <td rowspan="2">  lunch break </td></td>
-    <td  style="text-align: center";>5</td>
-    <td  style="text-align: center";>6</td>
-    </tr> 
-    <tr> 
-    <td>MONDAY</td> 
-    <td>19AI401/FacultyName</td>
-    <td>English</td>
-    <td>Statistics</td>
-    <td>Banking</td> 
-    <td>-</td>
-    <td>EP</td>
-    </tr> 
-    </table><br>
-   </body>
-   
-
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-1. 19AI401 - Fundamentals of Webtechnology</p>
-</html>
-
+``````
+<table border="14" cellspacing="0" align="left"  >
+    
+  <tr bgcolor="LightBlue">
+        <th align= "center"  colspan="6" height="50" width="100"><h1>TIME TABLE</h1></th>
+    </tr>
+    <tr bgcolor="#728FCE">
+        <th align= "center"  colspan="1"  height="40" width="80"><b>NAME</b></th>
+        <th align= "center"  colspan="2"  bgcolor="LightSteelBlue" height="40" width="80"><b>SANIYA G</b></th>
+        <th align= "center"  colspan="1"  height="40" width="80"><b>REF.NO</b></th>
+        <th align= "center"  colspan="2"  bgcolor="LightSteelBlue" height="40" width="80"><b>23002553</b></th>
+    </tr>
+    <tr bgcolor="#A0D6B4">
+        <th align= "center"  colspan="6" height="40" width="50"> <b>SEMESTER-1 ODD-JUNIOR(2023-2024)</b></th>
+    </tr>
+   <tr bgcolor="LightBlue">
+        
+  <td align="center"  height="50"
+            width="125"><br>
+            <b>Day/Period</b></br>
+        </td>
+        <td align="center" height="50"
+            width="125">
+            <b>I<br>8:00-10:00</b>
+        </td>
+        <td align="center" height="50"
+            width="125">
+            <b>II<br>10:00-12:00</b>
+        </td>
+        <td align="center" height="50"
+            width="125">
+            <b>12:00-1:00</b>
+        </td>
+        <td align="center" height="50"
+            width="125">
+            <b>III<br>1:00-3:00</b>
+        </td>
+        <td align="center" height="50"
+            width="125">
+            <b>IV<br>3:00-5:00</b>
+        </td>
+    </tr>
+    <tr bgcolor="LightSteelBlue">
+        <td align="center" height="80">
+            <b>Monday</b></td>
+        <td align="center" bgcolor="#e7feff "height="50">19AI301C/Python and Linear Algebra</td>
+        <td align="center" bgcolor="#e7feff " height="50">19EN101/Communicative English</td>
+        <td rowspan="5" align="center" height="50">
+            <h1>L<br>U<br>N<br>C<br>H</h1>
+        </td>
+        <td align="center" bgcolor="#e7feff " height="50">19CY205/ Principles of chemistry in engineering</td>
+        <td align="center" bgcolor="#e7feff " height="50">---</td>
+    </tr>
+    <tr bgcolor="LightSteelBlue">
+        <td align="center"  height="80">
+            <b>Tuesday</b>
+        <td  bgcolor="#e7feff "align="center"height="50">19EE404/Digital Electronics</td>
+        <td align="center" bgcolor="#e7feff " height="50">19EY701/Soft Skills</td>
+        <td align="center" bgcolor="#e7feff "height="50">19AI301C/Python and Linear Algebra</td>
+        <td align="center" bgcolor="#e7feff " height="50">---</td>
+        
+  </tr>
+    <tr bgcolor="LightSteelBlue">
+        <td align="center" height="80">
+            <b>Wednesday</b>
+        </td>
+        <td align="center" bgcolor="#e7feff " height="50">19EE404/Digital Electronics</td>
+        <td align="center" bgcolor="#e7feff "height="50">19AI414/ Fundamentals of Web Application Development</td>
+        <td align="center" bgcolor="#e7feff " height="50">19AI301C/Python and Linear Algebra</td>
+        <td align="center" bgcolor="#e7feff " height="50">---</td>
+    </tr>
+    <tr bgcolor="LightSteelBlue">
+        <td align="center" height="80">
+            <b>Thursday</b>
+        </td>
+        <td align="center" bgcolor="#e7feff" height="50">19AI414/ Fundamentals of Web Application Development</td>
+        <td align="center"  bgcolor="#e7feff "height="50">---</td>
+        <td align="center" bgcolor="#e7feff "height="50">19EN101/ Communicative English</td>
+        <td  align="center" bgcolor="#e7feff " height="50">---</td>
+    </tr>
+    <tr bgcolor="LightSteelBlue">
+        <td align="center"  height="80">
+            <b>Friday</b>
+        </td>
+        <td align="center" bgcolor="#e7feff "height="50">---</td>
+        <td align="center" bgcolor="#e7feff "height="50">19AI414/ Fundamentals of Web Application Developmentc</td>
+        <td align="center" bgcolor="#e7feff " height="50">19AI301C/Python and Linear Algebra</td>
+        <td align="center" bgcolor="#e7feff " height="50">---</td>
+    </tr>
+</table>
+``````
 
 ### OUPUT
-![Alt text](logo.png)
+![Alt text](<../Screenshot 2023-11-21 194542.png>)
