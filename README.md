@@ -12,7 +12,7 @@ Add your timetable
 ### STEP 4
 Execute the program
 
-# CODE
+### CODE:
 
 <html>
   <head>
@@ -30,7 +30,6 @@ Execute the program
     <th  style="text-align: left" colspan="2">23013613</th> 
     <th  style="text-align:right" colspan="2"> Name:</th> 
     <th colspan="2">Kala</th>
-    
     </tr> 
     <tr> 
     <td style="text-align: center";>DAYS</td> 
@@ -41,7 +40,6 @@ Execute the program
     <td rowspan="2">  lunch break </td></td>
     <td  style="text-align: center";>5</td>
     <td  style="text-align: center";>6</td>
-    
     </tr> 
     <tr> 
     <td>MONDAY</td> 
@@ -64,5 +62,5 @@ Execute the program
 </html>
 
 
-# OUPUT
+### OUPUT
 ![Alt text](logo.png)
