@@ -106,5 +106,5 @@ Execute the program
 ``````
 
 ### OUPUT:
-![Alt text](../logo.png)
-![Alt text](<../Screenshot 2023-11-21 194542.png>)
+![logo](../logo.png)
+![table](../table.png)
