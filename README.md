@@ -106,5 +106,6 @@ Execute the program
 ``````
 
 ### OUPUT:
-![logo](../logo.png)
-![table](../table.png)
+![logo](https://github.com/saniyaganesamoorthy/ODD2023-WT-Ex-03-Timetable/assets/145742583/d8ed4d5a-01f3-4e47-a1b3-9e318bc8dcef)
+![table](https://github.com/saniyaganesamoorthy/ODD2023-WT-Ex-03-Timetable/assets/145742583/c484c8ff-2187-47d3-b1b3-6ec02adb4bd8)
+
